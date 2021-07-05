@@ -6,10 +6,10 @@
   "scripts": {
     "start": "node life.js"
   },
-  "author": "Edward Thomson <ethomson@edwardthomson.com>",
+  "author": "Rahul Awasthi <awasthir@pm.me>",
   "license": "MIT",
-  "repository": "https://github.com/ethomson/github4life",
-  "homepage": "https://github.com/ethomson/github4life",
+  "repository": "https://github.com/devdoraemon/github4life",
+  "homepage": "https://github.com/doraemon/github4life",
   "dependencies": {
     "contributions": "^0.5.0",
     "dat-life": "^0.1.0",
